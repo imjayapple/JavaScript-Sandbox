@@ -23,3 +23,5 @@
  */
 
  console.log('            lots of whitespace            '.trim()); // prints 'lots of whitespace'
+
+ //
